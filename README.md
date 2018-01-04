@@ -1,0 +1,2 @@
+# Banking-Sector
+The problem is all about  categorising  the bank customers  into different categories having strong similarity within the group .with the dataset containing bank transactions data. Some of the data elements are transaction id, customer id ,transaction amount , mode of transactions, etc.Need  to come up with algorithms that can segment users into different categories.So the problem is of unsupervised learning in nature.
